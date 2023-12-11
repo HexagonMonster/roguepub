@@ -1,0 +1,1 @@
+{"paths":{"0":["Bgm/bgm_1",0],"1":["Bgm/bgm_2",0]},"types":["cc.AudioClip"],"uuids":["5017tIQ1NL65rvUdlfoVKi","0dnfRxp/BIGLO0sVGZjuW0"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"AudioBundle","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"b4cee",0,"296bb"],"native":[1,"8bc7f",0,"4ddd2"]}}
